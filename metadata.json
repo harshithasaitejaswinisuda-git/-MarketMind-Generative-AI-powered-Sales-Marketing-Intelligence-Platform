@@ -1,0 +1,8 @@
+{
+  "name": "MarketMind",
+  "description": "A high-performance Generative AI platform for sales and marketing teams, providing campaign generation, sales pitch creation, lead scoring, and market analysis with dual-model optimization for speed and depth.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
